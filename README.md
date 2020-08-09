@@ -1,16 +1,4 @@
 # bot-follow-instagram-js
-<h3>Português</h3>
-
-Bot (Instagram) para seguir usuários automaticamente usando JS e Chrome
-
-Modo de uso: 
-
-- Vá no perfil onde tem as pessoas nas quais você quer seguir
-- Abra o Inspecionar
-- Vá em Console
-- Cole o código que está no arquivo "index.js" e dê Enter
-
-<h3>Inglês (English)</h3>
 
 Bot (Instagram) to automatically follow users using JS and Chrome
 
